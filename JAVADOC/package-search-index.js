@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"CRUDArrays","l":"app"},{"m":"CRUDArrays","l":"models"},{"m":"CRUDArrays","l":"service"},{"m":"CRUDArrays","l":"utils"}];updateSearchResults();
